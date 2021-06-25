@@ -1,0 +1,12 @@
+.title{
+    background-color: #FFC221;
+    height: 300px;
+    margin: 0px;
+    padding-top: 50px;
+}
+.title h2 {
+    color: black;
+}
+@media all and (max-width:765px){
+    .title{height: 200px;}
+}

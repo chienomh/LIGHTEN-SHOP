@@ -1,0 +1,33 @@
+.anh{
+    text-align: center;
+    margin: 10px;
+}
+.anh img{
+    width: 100%;
+    border: 1px solid #FFC221;
+}
+@media all and (max-width:765px){
+    .title{height: 200px;}
+}
+.text{
+    padding: 20px;
+}
+.text h3{
+    border-bottom: 1px dashed #FFC221;
+    font-size: 40px;
+}
+.title-product{
+    font-size: 40px;
+}
+.buy{
+    width: 100px;
+    height: 50px;
+    background-color: #FFC221;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+}
+.buy p:hover{
+    color: white;
+}
